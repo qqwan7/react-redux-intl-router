@@ -1,0 +1,83 @@
+export default {
+    qqqqqqqqqq: 'Agent Admin Portal',
+    "common_agent_admin": "Agent Admin Portal",
+    "common_change_pwd" : "Change Password",
+    "common_exit_login": "Log out",
+    "common_user_old_pwd": "Old password",
+    "common_user_new_pwd": "New password",
+    "common_user_confirm_pwd": "Confirm password",
+    "common_old_pwd_tip": "Enter old password",
+    "common_new_pwd_tip": "Enter new password",
+    "common_confirm_pwd_tip": "Confirm password",
+    "common_new_pwd_success": "Your Password has been changed successfully, please log in again.",
+    "common_confirm_pwd_error": "The two passwords you typed do not match",
+
+    "validate_username_not_empty": "User name should not be empty",
+    "validate_password_not_empty": "Password should not be empty",
+    "validate_validatecode_not_empty": "Validate code should not be empty",
+    "validate_field_not_empty": "This field should not be empty",
+    "validate_name_error": "Invalid name",
+    "validate_password_different": "Inconsistency of password input",
+
+    "menu_dashboard": "Dashboard",
+    "menu_enterprise": "Enterprise",
+    "menu_ap_manage": "AP Manage",
+    "menu_ap_password_manage": "AP Password Manage",
+    "menu_firmware_manage": "Firmware Manage",
+    "menu_portal_manage": "Portal Manage",
+    "menu_para_config": "System Manage",
+    "menu_para_config_list": "Parameters Configuration",
+    "menu_para_config_type": "Parameters Type",
+    "menu_maintenance": "Maintenance",
+
+    "placeholder_search_mac": "Search MAC",
+    "placeholder_search_name_email": "Search Name/Email",
+    "placeholder_search_key": "Search Name/Key",
+
+    "title_add": "Add",
+    "title_edit": "Edit",
+    "title_delete": "Delete",
+    "title_upload": "Upload",
+    "title_download": "Download",
+
+    "button_ok": "Ok",
+    "button_cancel": "Cancel",
+    "button_close": "Close",
+    "button_save": "Save",
+    "button_add": "Add",
+    "button_edit": "Edit",
+    "button_delete": "Delete",
+    "button_submit": "Submit",
+    "button_preview": "Preview",
+    "button_finish": "Finish",
+    "button_upgrade": "Upgrade",
+
+    "list": {
+        "actions": "Actions"
+    },
+    "message": {
+        "12002": "Custom templates reach the maximum of 5",
+        "12003": "The save failed and the  name could not be the same",
+        "10033": "password error",
+        "10036": "New password can't be the same as the old one.",
+        "add_success": "Added successfully",
+        "move_success": "Moved successfully",
+        "delete_success": "Deleted successfully",
+        "edit_success": "Edited successfully",
+        "save_success": "Saved successfully",
+        "upload_success": "Uploaded successfully",
+        "submit_success": "Submit successfully",
+        "cancel_upload": "Is it sure that the release of this version is cancelled",
+        "50005": "Invalid parameters",
+        "isDelect": "Are you sure to delete this line?",
+        "60001": "Upload template format error!",
+        "delete_confirm": "Are you sure to delete this AP?",
+        "delete_confirm_tip": "Prompt"
+    },
+
+        "login_account": "Login name",
+        "login_password": "Password",
+        "login_sign_in": "Sign In",
+        "login_validTip": "Click to refresh"
+
+}
